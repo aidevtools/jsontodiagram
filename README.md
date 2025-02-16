@@ -1,6 +1,6 @@
 # JSON to Diagram - Visualize Your JSON Data
 
-![JSON to Diagram](https://yourgithubpage.github.io/your-image-path.png)
+![JSON to Diagram](https://i3.ytimg.com/vi/U-yjWxmF2ho/maxresdefault.jpg)
 
 ## Overview
 
