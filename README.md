@@ -1,6 +1,6 @@
 # JSON to Diagram - Visualize Your JSON Data
 
-![JSON to Diagram](https://i3.ytimg.com/vi/U-yjWxmF2ho/maxresdefault.jpg)
+![JSON to Diagram](https://i3.ytimg.com/vi/U-yjWxmF2ho/hqdefault.jpg)
 
 ## Overview
 
